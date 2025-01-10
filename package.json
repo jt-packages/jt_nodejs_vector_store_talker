@@ -1,0 +1,11 @@
+{
+  "name": "jt_nodejs_vector_store_talker",
+  "version": "1.0.0",
+  "description": "A script that allow you to connect to vector store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Weiyan Tao (JT)",
+  "license": "MIT"
+}
